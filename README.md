@@ -9,7 +9,11 @@ This project visualizes Tesla company market performance and sales patterns usin
 
 ## Features
 -Interactive Power BI dashboard
+
 -Trend analysis over time
+
 -Volume by the period
+
 -Year closely / Highest / Lowest price by year
+
 -Easy to use filters and slicers
